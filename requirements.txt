@@ -1,0 +1,6 @@
+langchain
+openai
+chromadb
+faiss-cpu
+jupyter
+python-dotenv
