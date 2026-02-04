@@ -1,7 +1,0 @@
-Artificial intelligence (AI) refers to computational systems that can perform tasks commonly associated with human intelligence, such as learning from data, recognizing patterns, reasoning, and making decisions. In practice, AI is used to automate or improve processes like text understanding, image recognition, speech processing, and recommendation systems.
-
-A major driver of modern AI is machine learning, where models learn statistical relationships from examples rather than being explicitly programmed with rules. Deep learning is a subset of machine learning that uses multi-layer neural networks, and it has achieved strong results in areas such as computer vision and natural language processing.
-
-However, AI systems have limitations. A model’s knowledge is constrained by its training data and does not automatically stay up to date. In addition, AI outputs can be sensitive to data quality and may reflect biases present in the training set. In real-world applications, teams often combine AI models with external data sources, careful evaluation, and guardrails to improve reliability and transparency.
-
-Today, organizations use AI both to increase efficiency (e.g., automating repetitive tasks) and to create new capabilities (e.g., searching large document collections or extracting structured information from unstructured text). As AI becomes more widely adopted, understanding how data flows through an AI system—and how to validate outputs—becomes increasingly important for building trustworthy applications.
